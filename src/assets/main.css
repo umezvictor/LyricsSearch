@@ -1,0 +1,49 @@
+.mynav{
+    background:  #000411;
+    display:flex;
+    height: 50px;
+    margin-bottom: 20px;
+}
+.mynav .navbar-brand{
+    color: #fff;
+    font-size: 1rem;
+}
+
+.text-center {
+    color:#cc2b5e ;
+    text-transform: capitalize;
+    font-size: 1rem;
+}
+
+.text-center2 {
+    color:#000;
+    text-align: center;
+    font-size: 1rem;
+}
+.text-center3 {
+    color:#cc2b5e ;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.track-icons{
+color: #cc2b5e ;
+font-weight: 400;
+}
+
+.album-icons{
+    color: #cc2b5e ;
+    font-weight: 400;
+}
+
+
+.myfooter{
+    background: #ccc;
+    color: #cc2b5e;
+    font-size: 0.75rem;
+    text-align: center;
+    margin-top: 15px;
+    height: 50px;
+    padding-top: 15px;
+}
